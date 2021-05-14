@@ -1,3 +1,6 @@
+# docker build --rm -f my-app/Dockerfile -t my-app:v1 my-app/  
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
